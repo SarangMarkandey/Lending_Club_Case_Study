@@ -11,3 +11,4 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 The data given below contains the information about past loan applicants and whether they ‘defaulted’ or not. 
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing 
 the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
+[Lending Club Case study.pdf](https://github.com/SarangMarkandey/Lending_Club_Case_Study/files/8673227/Lending.Club.Case.study.pdf)
